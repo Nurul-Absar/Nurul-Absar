@@ -39,11 +39,7 @@ Python · NumPy · pandas · scikit-learn · PyTorch · TensorFlow · Hugging Fa
 
 ## 📝 How to cite / connect
 If you use my code or collaborate on research, feel free to cite me or reach out by email: **nurulabsar@iiiuc.ac.bd**.
-
-You can also add links here to:
-- Google Scholar / ORCID / ResearchGate
-- Personal website or institutional profile
-- Twitter / LinkedIn (if you use them)
+- Google Scholar: https://scholar.google.com/citations?user=zdtJTCoAAAAJ&hl=en
 
 ---
 
